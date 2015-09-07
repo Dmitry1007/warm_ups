@@ -19,4 +19,5 @@ function rotator(word, comparison){
 // rotator("apple", "apple")
 // rotator("apple", "pplea")
 // rotator("apple", "pleap")
-rotator("apple", "applz")
+// rotator("apple", "appl")
+// rotator("apple", "pleap")
